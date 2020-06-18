@@ -1,5 +1,6 @@
 # Chat
 **Just a BS**
+
 A global open chatting system that uses a unix console.
 You basically log in with any username you want and no password and then start talking lol.
 
