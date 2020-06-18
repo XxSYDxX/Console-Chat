@@ -21,7 +21,7 @@ For example:
 
 will sign you in with the *MyUsername* username.
 
-**Keep the window of your terminal in a portrait shape and small size** for better experience.
+**Keep the window of your terminal in a portrait shape and small size** for a better experience.
 
 To send any message you hit ENTER, type the message and then hit ENTER again to send it.
 
