@@ -39,7 +39,8 @@ if len(sys.argv) >= 2:
 else:
     secret = "NULL"
 
-if secret == "1231":                                        user = "banu"                                    
+if secret == "1231":
+    user = "banu"                                    
 elif secret == "2456":                              
     user = "pinu"                                       
 elif secret == "5896":
